@@ -1,9 +1,10 @@
-<p align="center">
-  <img src="./assets/icon.png" alt="Icon" width="80" style="vertical-align: middle; margin-right: 15px;">
-  <span style="font-size: 26px; font-weight: bold;">Python Port-Scaffolder desktop app</span>
-</p>
+<img src="./assets/icon.png" width="80" align="left" style="margin-right:15px;" />
+<h1>Python Port-Scaffolder desktop app</h1>
 
----
+
+
+
+
 
 
 Python Port-Scaffolder es un programa de uso libre y gratuito para la creacion y preparacion de proyectos con Python, incluye templates para codigo de python, apps webs, desktop app y demas tipos de uso. 
